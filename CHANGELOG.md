@@ -1,3 +1,10 @@
+# [4.9.0](https://github.com/osuresearch/ui/compare/v4.8.0...v4.9.0) (2022-12-21)
+
+
+### Features
+
+* **ci:** add issue and contribution templates ([77accfc](https://github.com/osuresearch/ui/commit/77accfca230aeffa720062a46558cd8dd81049d6))
+
 # [4.8.0](https://code.osu.edu/ORIS/ui/compare/4.7.1...4.8.0) (2022-12-20)
 
 
